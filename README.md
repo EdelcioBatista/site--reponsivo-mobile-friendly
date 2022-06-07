@@ -1,1 +1,1 @@
-# site-reponsivo-mobile-friendly
+# site-responsivo-mobile-friendly
